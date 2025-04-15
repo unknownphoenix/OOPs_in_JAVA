@@ -1,0 +1,1 @@
+This is a repo on OOPs. So I am basically documenting my learning from Kunal Khushwaha post which I will also make a fun mini project on oops. I have used JAVA as the programming language here. Happy Learnings!!
