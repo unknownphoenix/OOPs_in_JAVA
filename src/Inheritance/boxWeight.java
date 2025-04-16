@@ -12,6 +12,10 @@ public class boxWeight extends Box {
          this.weight = other.h;
          System.out.println("Copy constructor:" + weight);
     }
+    boxWeight(double side, double weight){
+         super(side);
+         this.weight = weight;
+    }
     boxWeight(double l, double h, double w, double wt){
          super(l, h, w);
          // super is used to initialize values persent in constructor class
