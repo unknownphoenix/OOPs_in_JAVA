@@ -1,13 +1,16 @@
 package Inheritance;
 
 public class Box {
-    double l;
+    private double l;
     double h;
     double w;
     Box(){
         this.h = -1;
         this.l = -1;
         this.w = -1;
+    }
+    public double getL(){
+        return l;
     }
     // cube
     Box (double side){
